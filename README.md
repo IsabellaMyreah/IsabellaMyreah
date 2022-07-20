@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi everybody, i'm Isabella aka Bella!
 
-
-**IsabellaMyreah/IsabellaMyreah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+About me:
 
 - 🌺 I’m currently studying on SESI SENAI ✨
 - 🌺 I’m currently learning programming 💻
