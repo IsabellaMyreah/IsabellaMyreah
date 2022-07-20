@@ -17,4 +17,5 @@ Here are some ideas to get you started:
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaMyreah&layout=compact&langs_count=7&theme=radical"/>
     </div>
     
+    ![snake gif](https://github.com/IsabellaMyreah/IsabellaMyreah/blob/output/github-contribution-grid-snake.svg)
    
