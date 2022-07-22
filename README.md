@@ -5,7 +5,7 @@ A bit about me:
 - 🌺 I’m currently studying on SESI SENAI ✨
 - 🌺 I’m currently learning programming 💻
 - 🌺 Ask me about fantasy/sci-fy movies 🎞
-- 🌺 How to reach me: @isabellamyreah@gmail.com / @isabella.cavalcante@al.estudante.senai.br / @isabella.myreah (instagram)
+- 🌺 How to reach me: isabellamyreah@gmail.com / isabella.cavalcante@al.estudante.senai.br / @isabella.myreah (instagram)
 - 🌺 Fun fact: I love cake 🎂
 - 🌺 Philippians 3:13-14 🎯 
 <div>
